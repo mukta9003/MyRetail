@@ -1,0 +1,2 @@
+# MyRetail
+MyRetail REST application
